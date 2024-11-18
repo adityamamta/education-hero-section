@@ -34,6 +34,11 @@ section {
     margin-inline: auto;
 }
 
+::selection {
+    color: white;
+    background-color: var(--violet);
+}
+
 /* base style ends */
 
 
